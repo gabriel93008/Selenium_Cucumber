@@ -3,7 +3,7 @@ Simple Selenium with CucumberJS for Studies
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Repository about solutions to do the designer with CucumberJS, Selenium, and HTML Reports.
+Repositório sobre como automatizar testes com CucumberJS, Selenium e HTML Reports.
 
 Some templates attached for VSCode IDE.
 
