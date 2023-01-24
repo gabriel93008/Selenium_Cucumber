@@ -30,3 +30,5 @@ Dentro do arquivo TC1.features é para por roteiros de testes utilizando Feature
 
 ![TC1 JS](https://user-images.githubusercontent.com/111756886/214192008-179b6d02-9787-43fe-aed9-ae6852f1a03e.png)
 
+5 - Baixado as dependências e preenchido os arquivos é só executar com o comando < npm test >
+
