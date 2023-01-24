@@ -15,5 +15,10 @@ Repositório sobre como automatizar testes com CucumberJS, Selenium e HTML Repor
 
 > npm install chromedriver geckodriver 
 
+2 - Colocar esse comando no arquivo Json: 
+
+> "scripts": {
+    "test": "cucumber-js -f @cucumber/pretty-formatter features/* --format html:cucumber-report.html "
+
 
 
