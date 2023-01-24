@@ -35,5 +35,8 @@ Dentro do arquivo TC1.features é para por roteiros de testes utilizando Feature
 
 ![Teste finalizado ](https://user-images.githubusercontent.com/111756886/214192539-0c029584-48fa-4ebc-9865-4416f11fa5c4.png)
 
+6 - O arquivo HTML Reports é gerado e o resultado aparece: 
+
+![HTML Reports](https://user-images.githubusercontent.com/111756886/214192994-b748fd7c-990c-4a45-b533-5bd2812194b1.png)
 
 
