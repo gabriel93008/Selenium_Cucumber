@@ -5,8 +5,11 @@ Simple Selenium with CucumberJS for Studies
 
 Repositório sobre como automatizar testes com CucumberJS, Selenium e HTML Reports.
 
-Alguns modelos anexados para VSCode IDE.
+1 - Criar um arquivo Json e baixar as dependências, segue abaixo os comandos para baixar no PowerShell ou qualquer outro terminal de sua preferência:
+< npm init
+< npm install --save-dev @cucumber/pretty-formatter @cucumber/cucumber
+< npm install selenium-webdriver assert
+< npm install chromedriver geckodriver 
 
-For run > npm run test
 
-![selenium_cucumberJS](https://user-images.githubusercontent.com/33332202/175794818-d85741c0-ecc9-403b-8882-9ed6d57b9977.jpg)
+
