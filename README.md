@@ -8,9 +8,12 @@ Repositório sobre como automatizar testes com CucumberJS, Selenium e HTML Repor
 1 - Criar um arquivo Json e baixar as dependências, segue abaixo os comandos para baixar no PowerShell ou qualquer outro terminal de sua preferência:
 
 > npm init
-<npm install --save-dev @cucumber/pretty-formatter @cucumber/cucumber
-<npm install selenium-webdriver assert
-<npm install chromedriver geckodriver 
+
+> npm install --save-dev @cucumber/pretty-formatter @cucumber/cucumber
+
+> npm install selenium-webdriver assert
+
+> npm install chromedriver geckodriver 
 
 
 
