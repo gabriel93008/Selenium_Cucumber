@@ -5,7 +5,7 @@ Simple Selenium with CucumberJS for Studies
 
 Repositório sobre como automatizar testes com CucumberJS, Selenium e HTML Reports.
 
-Some templates attached for VSCode IDE.
+Alguns modelos anexados para VSCode IDE.
 
 For run > npm run test
 
